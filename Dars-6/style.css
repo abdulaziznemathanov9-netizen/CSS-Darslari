@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*
+Display xosslari, 
+display block, inline and iline-block,
+Text-align and Vertical-align,
+ */
+/* 
+span {
+display: block;
+background-color: lawngreen;
+}
+
+div {
+    display: inline;
+    background-color: lightsalmon;
+} */
+
+
+
+/* p{
+display: inline-block;
+background-color: lightskyblue;
+width: 200px;
+height: 100px;
+} */
+
+
+
+
+div{
+    width: 500px;
+    border:1px solid black;
+    /* text-align: left;
+    text-align: center;
+    text-align: right;*/
+    text-align: justify;
+    text-align-last:left;
+    line-height:7px;
+    text-transform:capitalize;
+    letter-spacing: 5px;
+    word-spacing: 7px;
+    padding: 10px;
+}

@@ -1,0 +1,64 @@
+.container{
+  max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+
+.Enter{
+  box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+  width: 400px;
+  margin-top: 200px;
+  border-radius: 10px;
+}
+
+.Enter__card--subtitle{
+  text-align: center;
+  justify-content: center;
+  color: #2b2b2b;
+  margin-top: 40px;
+}
+
+
+.Enter__card--title{
+  text-align: center;
+  justify-content: center;
+  color:wheat;
+}
+
+.Enter__card--INP{
+ display: flex;
+ justify-content: center;
+ position: relative;
+ top: 200px;
+}
+
+.input{
+  width: 30px;
+  height: 25px;
+  border: 1.6px solid navy;
+  border-radius:5px;
+}
+
+.Button{
+  display: flex;
+ justify-content: center;
+position: relative;
+top: 230px;
+}
+
+.Enter__card--BTN{
+ width: 200px;
+ height: 30px;
+ border: 1px;
+ border-radius: 6px;
+ background-color: navy;
+ color: white;
+}
+
+.TEXT{
+ justify-items: center;
+position: relative;
+margin-top: 130px;
+}
+
+

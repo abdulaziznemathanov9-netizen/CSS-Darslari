@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* body{
+    font-family: cursive;
+} */
+
+header{
+    width: 100%;
+    height: 70px;
+    background-color: rgba(2, 58, 21, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 120px;
+}
+
+header .card{
+    display: flex;
+    gap: 25px;
+}
+
+header .card a{
+    color: #fff;
+}
+
+/* main */
+
+main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 120px;
+    background-color: rgba(2, 58, 21, 1);
+    margin-bottom: 250px;
+}
+
+main h1{
+    font-size: 65px;
+    color: #fff;
+}
+
+main h1 span{
+    color: rgba(240, 156, 150, 1);
+}
+
+main button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 7px 25px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+main .card .imgbanner{
+    width: 650px;
+}
+
+/* banner */
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 120px;
+}
+
+.banner .card{
+    width: 613px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+
+.banner .card h1{
+    font-size: 60px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.img-card-sister{
+    margin-top: 100px;
+}
+
+/* create section */
+
+.create{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(255, 230, 226, 1);
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 450px;
+}
+
+.create .card{
+    width: 500px;
+}
+
+.create h1{
+    padding-top: 350px;
+}
+
+/* cards */
+
+.cards{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 120px;
+}
+
+.cards .card{
+    width: 450px;
+}
+
+.cards h1{
+    width: 250px;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.cards p{
+    color: rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.cards img{
+    width: 550px;
+}

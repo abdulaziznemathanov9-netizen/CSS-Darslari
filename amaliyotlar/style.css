@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-box {
+    width: 320px;
+    background: #fff;
+    padding: 25px;
+    border-radius: 6px;
+    position: relative;
+}
+
+.login-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+label {
+    font-size: 14px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 6px 0 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.forgot {
+    font-size: 13px;
+    color: #4a90e2;
+    text-decoration: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(to right, #41c7c7, #8a2be2);
+}
+
+.signup {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.signup a {
+    color: #4a90e2;
+    text-decoration: none;
+}

@@ -1,0 +1,62 @@
+/*
+Meros olish,(Inheritance),
+O'ziga xoslik, (Specificity), 
+Colors,( Combinators) ,
+ */
+
+/*///////////O'ziga xoslik///////////*/
+
+
+ h1{
+    color: red;
+ }
+
+ #title{
+    color: black;
+ }
+
+ .title{
+    color: green;
+ }
+
+/* Colors */
+    h3{
+        color: red;
+    }
+
+    h4{
+        color: rgb(100, 232, 54)
+    }
+
+    h5{
+        color:#fff;
+    }
+      
+/* 
+.ota{
+    color: blue;
+} */
+
+/* 
+.ota{
+    color: red;
+}
+
+.ota > p {
+    color: yellow;
+}
+
+.bola > p {
+    color: red;
+}
+
+.bola ~ p {
+    color: red;
+} */
+
+.bola{
+    color: red;
+}
+
+
+

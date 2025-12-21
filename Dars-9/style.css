@@ -1,0 +1,46 @@
+/* 
+CSS Units ,
+O'lchov birlilklari ,
+O'zgaramas=> px
+O'zgaruvchan=> %, vh, vw, rem, em,
+*/
+
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+
+
+
+html {
+    font-size: 17px;
+}
+
+
+
+
+
+
+.box {
+    width: 1200px;
+    height: 300px;
+    border: 1px solid red;
+    padding: 5px;
+    color: red;
+    font-size: 2rem;
+}
+
+
+
+h1 {
+    width: 4rem;
+    height: 5rem;
+    /* width:100vw;
+    height:100vw;
+    background-color: red;
+    font-size: 20px; */
+    font-size: 1rem;
+    border: 0.25rem solid red;
+}

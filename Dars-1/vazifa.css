@@ -1,0 +1,289 @@
+h1{
+    color: darkcyan;
+}
+
+h2{
+color: blue;
+}
+
+h3{
+color: black;
+}
+
+h4{
+color: brown;
+}
+
+h5{
+color: blueviolet;
+}
+
+h6{
+color: aqua;
+}
+
+p{
+color: darkmagenta;
+}
+
+b{
+    color: darkgrey;
+}
+strong{
+    color: lightcoral;
+}
+
+small{
+    color:purple;
+}
+
+i{
+    color: olive;
+}
+ins{
+    color: green;
+}
+
+del{
+    color: navy;
+}
+
+button{
+    color: limegreen;
+    background-color: darkred;
+}
+
+
+label{
+    color: firebrick;
+}
+
+
+mark{
+    color: sienna;
+    background-color: black;
+}
+
+em{
+    color: mediumblue;
+}
+
+
+li{
+    color: olive;
+}
+
+
+
+
+
+
+
+.H1{
+    color: darkcyan;
+    background-color: color(srgb red green blue);
+}
+
+.H2{
+color: blue;
+background-color: darkcyan;
+}
+
+.H3{
+color: black;
+background-color: darkviolet;
+}
+
+.H4{
+color: brown;
+background-color: honeydew;
+}
+
+.H5{
+color: blueviolet;
+background-color: hotpink;
+}
+
+.H6{
+color: aqua;
+background-color: greenyellow;
+}
+
+.Poragraph{
+color: darkmagenta;
+background-color: lime;
+}
+
+.B{
+    color: darkgrey;
+    background-color: aqua;
+}
+.strong{
+    color: lightcoral;
+    background-color: deeppink;
+}
+
+.small{
+    color:purple;
+    background-color: dimgray;
+}
+
+.TAG{
+    color: olive;
+    background-color: lightcoral;
+}
+.INS{
+    color: green;
+    background-color: black;
+}
+
+.DEL{
+    color: navy;
+    background-color: blueviolet;
+}
+
+.BTN{
+    color: limegreen;
+    background-color: darkred;
+}
+
+
+.label{
+    color: firebrick;
+    background-color: firebrick;
+}
+
+
+.mark{
+    color: sienna;
+    background-color: black;
+}
+
+.em{
+    color: mediumblue;
+    background-color: orange;
+}
+
+
+.li{
+    color: olive;
+    background-color: firebrick;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#H1{
+    color: aqua;
+    background-color: black;
+}
+
+#H2{
+    color: brown;
+    background-color: blue;
+}
+
+
+#H3{
+    color: chartreuse;
+    background-color: cornflowerblue;
+}
+
+
+#H4{
+    color: darkblue;
+    background-color: crimson;
+}
+
+#H5{
+    color: darkgreen;
+    background-color: rgb(80, 157, 26);
+ }
+
+ #H6{
+    color: gold;
+    background-color: rgb(119, 87, 206);
+ }
+
+
+#Poragraph{
+    color: dimgrey;
+    background-color: rgb(34, 171, 105);
+}
+
+#strong{
+    color: rgb(68, 36, 53);
+    background-color: lch(lightness chroma hue);
+}
+
+
+
+
+#B{
+    color: rgb(148, 121, 72);
+    background-color: crimson;
+}
+
+#Small{
+    color: lemonchiffon;
+    background-color: rgb(11, 197, 144);
+}
+
+
+#TAG{
+    color: lightgreen;
+    background-color: rgb(204, 0, 255);
+}
+
+
+
+#EM{
+    color: pink;
+    background-color: rgb(0, 255, 174);
+}
+
+
+
+
+#INS{
+    color: rgb(255, 162, 0);
+    background-color: rgb(255, 0, 221);
+}
+
+#DEL{
+    color:forestgreen ;
+    background-color: darkviolet;
+}
+
+#label{
+    color:yellow ;
+    background-color: rgb(112, 8, 112);
+}
+
+#mark{
+    color: rgb(150, 150, 26);
+    background-color: rgb(0, 128, 255);
+}
+
+#Li{
+    color: rgb(48, 131, 84);
+    background-color: rgb(12, 130, 181);
+}
