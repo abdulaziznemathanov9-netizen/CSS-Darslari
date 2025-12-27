@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Dark Extended",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.editor.empty.hint": "hidden",
+    "files.autoSave": "afterDelay"
+}

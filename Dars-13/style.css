@@ -1,0 +1,96 @@
+/* 
+
+
+*/
+
+
+@font-face {
+  font-family: DM Sans;
+  src: url(./fonts/Lobster_Two/DM_Sans/DMSans-Italic-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face {
+  font-family: Lobster Two;
+  src: url(./fonts/Lobster_Two/LobsterTwo-Bold.ttf);
+}
+
+
+
+.container{
+  max-width: 1300px;
+  width: 100%;
+  margin: auto;
+}
+
+
+.Salleoff__Pragraph{
+  display: flex;
+  justify-content: center;
+}
+
+.Salleoff__link{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.Salleoff--cards{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.Salleoff--cards__img{
+  padding: 20px;
+  border-radius: 5px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+
+
+.Salleoff--cards__cards P{
+  font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.Salleoff--cards__card H2{
+  font-family: Lobster Two;
+font-weight: 700;
+font-style: Bold;
+font-size: 22px;
+line-height: 27px;
+letter-spacing: 0%;
+}
+
+.Salleoff__link a{
+  font-family: Lobster Two;
+font-weight: 700;
+font-style: Bold;
+font-size: 22px;
+line-height: 27px;
+letter-spacing: 0%;
+text-decoration: none;
+}
+
+.Salleoff__link a:hover{
+  cursor: pointer;
+ color: black;
+ text-transform: capitalize;
+}
+.Salleoff__Pragraph{
+  font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+color: gold;
+}

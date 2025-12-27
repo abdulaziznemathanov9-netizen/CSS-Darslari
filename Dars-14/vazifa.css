@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.boxes {
+  background-image: url(./img/sokin.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  animation-name: boxes;
+  animation-duration: 5s;
+  animation-delay: 1s;
+  animation-direction: reverse;
+}
+
+@keyframes boxes {
+  0% {
+    height: 100vh;
+  }
+
+  100% {
+    margin-top: 400px;
+    height: 0vh;
+  }
+ 
+}
